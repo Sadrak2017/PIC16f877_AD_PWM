@@ -1,0 +1,48 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sat Jan 29 23:48:20 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000090
+      .config_2007_MAIN.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00004b      
+                            0x002007    0x002007      
+            74 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             CONFIGURACAO   0x00001d    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                CONVERSAO   0x000047    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                    DELAY   0x00000c    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                   DELAY2   0x000011    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                   DELAY3   0x000017    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                     MAIN   0x000045    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                  SAI_INT   0x000007    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  SAI_INT   0x000007    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                    DELAY   0x00000c    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                   DELAY2   0x000011    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                   DELAY3   0x000017    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+             CONFIGURACAO   0x00001d    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                     MAIN   0x000045    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+                CONVERSAO   0x000047    program     static C:\Users\sadra\Documents\MPLab\Projeto - POT _L6\main.asm
+
+

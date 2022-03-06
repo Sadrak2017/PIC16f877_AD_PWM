@@ -1,0 +1,30 @@
+Warning[207] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 33 : Found label after column 1. (T1)
+Warning[207] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 34 : Found label after column 1. (T2)
+Warning[207] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 35 : Found label after column 1. (T3)
+Warning[205] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 40 : Found directive in column 1. (__config)
+Warning[205] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 43 : Found directive in column 1. (cblock)
+Warning[205] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 49 : Found directive in column 1. (ENDC)
+Warning[205] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 51 : Found directive in column 1. (org)
+Warning[203] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 53 : Found opcode in column 1. (goto)
+Warning[203] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 86 : Found opcode in column 1. (retfie)
+Message[305] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 96 : Using default destination of 1 (file).
+Warning[203] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 98 : Found opcode in column 1. (return)
+Message[305] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 104 : Using default destination of 1 (file).
+Warning[203] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 106 : Found opcode in column 1. (return)
+Message[305] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 112 : Using default destination of 1 (file).
+Warning[203] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 114 : Found opcode in column 1. (return)
+Warning[206] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 121 : Found call to macro in column 1. (BANK0)
+Warning[206] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 127 : Found call to macro in column 1. (BANK1)
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 137 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 141 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 143 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 145 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 147 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 149 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 150 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[206] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 152 : Found call to macro in column 1. (BANK0)
+Warning[206] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 176 : Found call to macro in column 1. (BANK1)
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 187 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[206] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 189 : Found call to macro in column 1. (BANK0)
+Message[302] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 204 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\SADRA\DOCUMENTS\MPLAB\PROJETO - POT _L6\MAIN.ASM 223 : Found directive in column 1. (END)
