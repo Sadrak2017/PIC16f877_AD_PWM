@@ -1,6 +1,4 @@
-# Este programa faz a leitura de um sinal analógico de um potenciômetro, converte em sinal
-  digital e por fim devolve na PORTC, RC2, do PIC16F877, um sinal PWM.
-  Para isso levando em consideração um clock interno de 20 MHz, os seguintes cálculos foram realizados:
+# Este programa faz a leitura de um sinal analógico de um potenciômetro, converte em sinal digital e por fim devolve na PORTC, RC2, do PIC16F877, um sinal PWM. Para isso levando em consideração um clock interno de 20 MHz, os seguintes cálculos foram realizados:
 #
      Tosc = 1 / PIC CLOCK   =>  Tosc = 1/20Mhz = 0.25us                                    
      Fpwm = 20MHz / (1023 * 16)  => Fpwm = 1,22kHz                                         
